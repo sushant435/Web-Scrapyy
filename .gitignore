@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+__pycache__/
+*.pyc
+courses.csv
+courses.json
+.env
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
